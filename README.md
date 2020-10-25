@@ -24,13 +24,8 @@
 ## Lancement ##
 
 
-```bash
-
 # Démarrer Xampp et impoter la base données      
 Vous trouver la base de données dans le dossier database du projet (test1.sql)
-
-# Obtenir le dernier repository
-git clone --depth=1 https://github.com/baccoucherami/devis.git
 
 # Copier le projet dans votre serveur locale 
 C:\xampp\htdocs\devis\
